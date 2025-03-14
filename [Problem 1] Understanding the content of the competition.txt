@@ -1,0 +1,13 @@
+1. What kind of company is Home Credit?
+->Home Credit is a global financial services company focused on improving financial inclusion for underserved and unbanked populations. The company aims to provide accessible and safe borrowing experiences for people who may not have traditional credit histories. Home Credit uses a wide variety of data, including telco and transactional information, to assess the creditworthiness of its clients. Their goal is to make lending more inclusive and fair, ensuring that people who are capable of repaying loans are not unfairly rejected.
+
+2. What is expected in this competition?
+->In this competition, Home Credit is challenging participants to develop models that can predict the likelihood of loan applicants defaulting on their loans. The company is already using statistical and machine learning techniques to make these predictions but is seeking Kaggle participants to help unlock even more potential from their data. The competition asks participants to use alternative data, such as telco and transactional data, to improve the prediction accuracy and create loan structures (principal, maturity, and repayment schedule) that best support the financial success of the clients.
+
+3. What are the benefits companies can gain by predicting this?
+->By accurately predicting loan defaults, companies like Home Credit can:
+
+- Improve Risk Management: By identifying which applicants are likely to default, the company can reduce the risk of financial losses from lending to high-risk individuals.
+- Optimize Loan Terms: The ability to predict repayment capabilities helps in tailoring loan structures (e.g., loan amount, repayment schedule) to better suit individual clients, increasing the likelihood of successful repayment.
+- Increase Financial Inclusion: By making informed decisions, Home Credit can extend loans to a broader population, including those without traditional credit histories, without exposing the company to excessive risk.
+- Enhance Customer Experience: Clients who are capable of repayment will not be unfairly rejected, and the loans will be designed in a way that improves their chances of financial success, leading to a better overall customer experience.
